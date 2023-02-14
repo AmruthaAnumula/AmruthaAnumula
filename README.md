@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AmruthaAnumula
-- 👀 I’m interested in Front-end development.
+- 👀 I’m interested in Front-End Technology.
 - 🌱 I’m currently learning React js
